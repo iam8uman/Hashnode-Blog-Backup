@@ -16,7 +16,7 @@ To Install Xampp server on ubuntu, You can follow these 7 steps :
     
 
 ```apache
-ls 
+ls
 ```
 
 1. if exists check the permission of that files. (run this command)
@@ -122,4 +122,4 @@ sudo ./manager-linux-x64.run
 
 ### Here You will learn how to install Xampp in ubuntu all versions
 
-> " You can, There you are " Happy face, Happy coder :) @sumannn\_07
+> " You can, There you are " Happy face, Happy coder :) @[Suman Sharma](@Me8848You) ❤️
