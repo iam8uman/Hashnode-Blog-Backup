@@ -5,18 +5,18 @@ seoDescription: "React   State  & Event Handling using Hooks with Mini-Project o
 datePublished: Sun Apr 23 2023 17:08:44 GMT+0000 (Coordinated Universal Time)
 cuid: clgtnyj3b000009l7gicy2qsb
 slug: react-state-event-handling-using-hooks-with-mini-project-of-uppercase-to-lowercase-and-vice-versa
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682269617744/32414053-75b2-4d72-85eb-11121c614c99.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682305925783/8e45ebcd-36cc-478f-9ae8-414d3cf5db89.png
 tags: reactjs, hooks, me8848you, reactproject
 
 ---
 
 ## What I learned today from this topic is as written below:
 
-* 1\. State=condition of any component for eg. textarea component might be empty sometime , sometimes it has letters .
+* 1\. State=condition of any component for eg. textarea component might be empty sometime, and sometimes it has letters.
     
-* 2\. Hooks= A method which helps us to use features of classes in function based component this is because developer like us prefer to use function over classes.
+* 2\. Hooks= A method that helps us to use features of classes in function-based components this is because developer like us prefer to use functions over classes.
     
-* 3\. Hooks has this part ----&gt; const \[count,setCount)=useState("Hello Universe"); Here in above hook the value of count is Hello Universe. the count is an array variable so that we just can't update or change its value like a normal variable. But we can update or change its value using the setCount() method. i.e. setCount("Hey You"); this implies the value of count is updated to Hey You.
+* 3\. Hooks has this part ----&gt; const \[count,setCount)=useState("Hello Universe"); Here in the above hook the value of count is Hello Universe. the count is an array variable so we just can't update or change its value like a normal variable. But we can update or change its value using the setCount() method. i.e. setCount("Hey You"); this implies the value of count is updated to Hey You.
     
 
 ### What is inside this mini-project and what did i do?
