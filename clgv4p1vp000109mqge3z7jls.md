@@ -5,7 +5,7 @@ seoDescription: "That's How Stephen Hawking Communicate, Text To Speech In 3 Lin
 datePublished: Mon Apr 24 2023 17:45:02 GMT+0000 (Coordinated Universal Time)
 cuid: clgv4p1vp000109mqge3z7jls
 slug: thats-how-stephen-hawking-communicate-text-to-speech-in-3-lines-of-javascript
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682358205329/1cf33933-2c2f-4022-993a-19adb98ddadf.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682698817467/11064e80-be10-41d1-99d4-7171898c6545.png
 tags: js, reactjs, html5, sumannn, me8848you
 
 ---
