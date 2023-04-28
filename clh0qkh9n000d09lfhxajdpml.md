@@ -5,7 +5,7 @@ seoDescription: "Dark Mode using React useState Hooks. No Backend Code."
 datePublished: Fri Apr 28 2023 15:56:11 GMT+0000 (Coordinated Universal Time)
 cuid: clh0qkh9n000d09lfhxajdpml
 slug: dark-mode-using-react-usestate-hooks-no-backend-code
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682697230056/291a8408-4b64-4691-94d4-9d29a0566393.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682697679837/d0f0dbb2-f6ca-40ea-afab-5ce9cb35914a.png
 tags: reactjs, hooks, dark-mode, sumannn, me8848you
 
 ---
