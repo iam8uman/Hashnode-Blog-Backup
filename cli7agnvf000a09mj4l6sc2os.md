@@ -50,6 +50,8 @@ I don't have an answer for that, but I guess it's just the vibes you give me, th
 
 I already confess the main reason why I like you in msg box. You can still scroll this:)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685286197549/9837f466-7e36-461c-b981-fc9a02a244d0.jpeg align="center")
+
 ---
 
 ## WHY ME...?\*
