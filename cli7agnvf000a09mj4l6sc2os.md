@@ -48,7 +48,7 @@ but I just hope that one day, when you hear my name you would just smile and say
 
 I don't have an answer for that, but I guess it's just the vibes you give me, the smiles you put on my face, the laughs I get from talking to you, and just the fact that you can make me think of you even if we aren't talking at that moment. I honestly can't say there's an answer to that, but I will say that you are the reason I am happy every day.
 
-I already confess the main reason why I like you in msg box. You can still scroll this:)
+I already confessed the main reason why I like you in the message box. Still, you can scroll this:)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685286197549/9837f466-7e36-461c-b981-fc9a02a244d0.jpeg align="center")
 
