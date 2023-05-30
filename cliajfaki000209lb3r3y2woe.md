@@ -28,7 +28,6 @@ So, with a heavy heart, I have to say goodbye. The time we spent together, even 
 
 You know one thing, At some point in time "I just wish I met you earlier in this life. Then I realize She is Beautiful and had many options why would she even choose me?"
 
-  
 Still vanna man thiyo  
 Euta roja,  
 Ramro roja,  
@@ -96,9 +95,9 @@ As I continue my journey, I sincerely wish you all the best. May your path be fi
 Thank you for being a significant part of my life, even if it was for a short while. I will carry the fond memories of our time together in my heart.
 
 Goodbye,  
-**Upasana**, and may life bless you with endlessssssssssssssssssss happinesssssssssssss.
+**Upasana**, and may life bless you with endlessssssssss happinesssssssss.
 
-Yours sincerely,  
+With genuine respect and heartfelt wishes,  
 Suman Sharma
 
 ---
