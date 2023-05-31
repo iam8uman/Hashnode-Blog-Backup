@@ -92,8 +92,8 @@ As I continue my journey, I sincerely wish you all the best. May your path be fi
 
 Thank you for being a significant part of my life, even if it was for a short while. I will carry the fond memories of our time together in my heart.
 
-Goodbye,  
-**Upasana**, and may life bless you with endlessssssssss happinesssssssss.
+Goodbye **Upasana**,  
+And may life bless you with endlessssssssss happinesssssssss.
 
 With genuine respect and heartfelt wishes,  
 Suman Sharma
