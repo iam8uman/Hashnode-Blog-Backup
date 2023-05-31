@@ -47,8 +47,6 @@ Malai nai roja!!!
 `Always take care!`  
 `ilysm<3`
 
-**Pretty You + Ugly Me=❤️**
-
 ---
 
 But for now,
@@ -85,7 +83,7 @@ But for now,
     
 * Make you blush and smile.
     
-* Give you the world you deserved
+* Give you the world you deserve.
     
 
 I will always treasure the memories we created, the conversations we had, and the special moments that made my heart warm. You have made a lasting impact on my life, and I am grateful for the happiness and inspiration you brought.
@@ -103,3 +101,7 @@ Suman Sharma
 ---
 
 > I <s>say goodbye because I don't know how to spell FOREVER!!!<br>Even at that moment, I want to say "Please stay I'd like to waste a little more time on you" But I couldn't.</s>
+
+```javascript
+No doubt you are truly SERAPHIC🧚🏻
+```
