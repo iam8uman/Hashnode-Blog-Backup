@@ -44,7 +44,7 @@ Over the next 3 months, the number of soda sales at the hospital dropped by 11.4
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685674415171/71896e13-ec16-45b9-87c3-f6ea6990142c.webp align="center")
 
-<details data-node-type="hn-details-summary"><summary>What did I learn from this Example?</summary><div data-type="detailsContent">Yes, of course, Motivation is also a greater factor to build and continue your habit. But if I could make my environment habit friendly then it stands more longer than I expected. In the above example, nobody motivates to drink water in this cafeteria rather just a simple change in the environment provides us the greater result.</div></details>
+<details data-node-type="hn-details-summary"><summary>What did I learn from this Example?</summary><div data-type="detailsContent">Yes, of course, Motivation is also a greater factor to build and continue your habit. But if you could make your environment habit friendly then it stands longer than you expected. In the above example, nobody motivates to drink water in this cafeteria rather just a simple change in the environment provides us the greater result.</div></details>
 
 ---
 
