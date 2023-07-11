@@ -5,7 +5,7 @@ datePublished: Tue Jul 11 2023 11:24:07 GMT+0000 (Coordinated Universal Time)
 cuid: cljy7fn60001u09mmenng0d7c
 slug: usereducer-vs-usestate-concept-why-and-how
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689081906814/f9c87a89-5ad7-4372-ad96-358bd9641bcc.png
-tags: usereducer, usestate, reacthooks, reactjs-development-services
+tags: usereducer, usestate, reacthooks, reactjs-development-services, iam8uman
 
 ---
 
