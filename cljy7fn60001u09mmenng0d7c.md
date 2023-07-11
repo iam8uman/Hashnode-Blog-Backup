@@ -4,7 +4,7 @@ seoTitle: "useReducer WHY & HOW?"
 datePublished: Tue Jul 11 2023 11:24:07 GMT+0000 (Coordinated Universal Time)
 cuid: cljy7fn60001u09mmenng0d7c
 slug: usereducer-vs-usestate-concept-why-and-how
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689074543544/515e1b7d-a7ed-43c6-b71d-45f5d7c0d9bc.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689081906814/f9c87a89-5ad7-4372-ad96-358bd9641bcc.png
 tags: usereducer, usestate, reacthooks, reactjs-development-services
 
 ---
@@ -91,5 +91,16 @@ apply switch cases and display respective state value.
     
 
 here we use onClicked={()=&gt;dispatch("Increment")} i.e. dispatch method renders the Increment state from the reducers method in the switch case.
+
+### What did I learn from EP20?
+
+Here we can use both
+
+1\. State as an object {} //we are able to keep track of multiple state variables
+
+2\. action as an object {} // we can pass additional data to reducers.
+
+Using state as an object we can manage 2 different states  
+for eg. One state couter1 increasing by 1 Another state counter2 increasing by 10 Using action as an object we can have multiple properties of action like.
 
 @iam8uman
