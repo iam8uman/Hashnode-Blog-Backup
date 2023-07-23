@@ -1,6 +1,7 @@
 ---
 title: "Dear Parents!!!"
 seoTitle: "Dear parents , Lessons to their parents after a years back"
+seoDescription: "Fostering a Love for Learning Beyond Grades – A Parent's Guide to Empowerment and Emotional Well-being"
 datePublished: Sat Jul 22 2023 16:35:45 GMT+0000 (Coordinated Universal Time)
 cuid: clke8es9j000e09l63ge0b73b
 slug: dear-parents-1
