@@ -1,13 +1,15 @@
 ---
-title: "A Letter For My Parents: A Journey of Love, Lessons, and Legacy - From Childhood to Parenthood!"
+title: "A Journey of Love, Lessons, and Legacy - From Childhood to Parenthood!"
 seoTitle: "A Letter For My Parents: A Journey of Love, Lessons, and Legacy - From"
 seoDescription: "A Letter For My Parents: A Journey of Love, Lessons, and Legacy-From Childhood to Parenthood!
 Passing on the Gift of Love and Wisdom to the Next Generation."
 datePublished: Sun Jul 23 2023 16:27:02 GMT+0000 (Coordinated Universal Time)
 cuid: clkfnjfem000b09mj10wxbarl
-slug: a-letter-for-my-parents-a-journey-of-love-lessons-and-legacy-from-childhood-to-parenthood
+slug: a-journey-of-love-lessons-and-legacy-from-childhood-to-parenthood
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690129401941/d15df70d-0ebc-4b53-9404-5e5e09ae5a8a.png
 tags: parenting, love, emotional-intelligence, parents, iam8uman
+
+---
 
 ---
 
@@ -32,3 +34,5 @@ I may have been just a child when you raised me, but your love and wisdom have s
 With all my love and admiration,
 
 Your Grateful Child, Now a Parent!
+
+---
