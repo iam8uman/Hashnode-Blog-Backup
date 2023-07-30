@@ -19,7 +19,7 @@ Recently, we had plans to buy rice from the same pasal, and due to some circumst
 
 ### `What did I do wrong? or sth else`
 
-When you asked me about the rice purchase, I made a terrible mistake by lying about the price. I said that I bought it for Rs. 2000 instead of telling you the truth about the discount I received. At that moment, I was shortsighted and only considered the pasal owner's perspective, fearing that revealing the discounted price might affect future discounts. What am I also concerned about is: ***I also tell them that you are also coming and they told me they only discount me. And If I tell you the truth that I won't get such a discount later.***
+When you asked me about the rice purchase, I made a terrible mistake by lying about the price. I said that I bought it for Rs. 2000 instead of telling you the truth about the discount I received. At that moment, I was shortsighted and only considered the pasal owner's perspective, fearing that revealing the discounted price might affect future discounts. What am I also concerned about is: ***<mark>I also tell them that you are also coming and they told me they only discount me. And If I tell you the truth that I won't get such a discount later.</mark>***
 
 ### `About YOUs`
 
@@ -33,11 +33,11 @@ And I truly regret not being upfront with you from the start. I am sorry for not
 
 Please know that I didn't intend to hurt or betray you in any way. My intentions were misguided, and I take full responsibility for my actions. I understand and I hope you can find it in your heart to forgive me.
 
-Moving forward, I considered both of you good friends Not just for saying but i truly believe and consider. I don't want my lapse in judgment to damage it. That is why without thinking for a single second I wrote this SORRY letter for YOUs.
+Moving forward, I considered both of you good friends Not just for saying but because I truly believe and consider. I don't want my lapse in judgment to damage it. That is why without thinking for a single second I wrote this SORRY letter for YOUs.
 
 `Nasta wala kura`  
 And one thing about that nasta wala kura room ma dherai jana thiyeu You know vada ko samasya thiyo that's why vanya ho. Ani tyoo kura nasunne gareko vaneko hoina. Vanxu nai vanera vanya ho timiharu room dekhi nahidya vaye.
 
-Once again, I am truly sorry and I will never forget **THAT** moment!
+Once again, I am truly sorry and I will never forget **<mark>THAT</mark>** moment!
 
 Yesa samma padexau dhanyabad for that T00 :)
