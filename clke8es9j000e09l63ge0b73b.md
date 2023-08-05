@@ -6,7 +6,7 @@ datePublished: Sat Jul 22 2023 16:35:45 GMT+0000 (Coordinated Universal Time)
 cuid: clke8es9j000e09l63ge0b73b
 slug: msg-for-my-parents-dear-parents
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4syO0fP1Bf0/upload/31f62089b1f70b772ee13193a9305c3c.jpeg
-tags: lessons, life, parents, children
+tags: lessons, life, parents, children, iam8uman
 
 ---
 
