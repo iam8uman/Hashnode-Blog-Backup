@@ -1,10 +1,10 @@
 ---
-title: "Dear Parents!!!"
+title: "Msg For My Parents? Dear Parents!"
 seoTitle: "Dear parents , Lessons to their parents after a years back"
 seoDescription: "Fostering a Love for Learning Beyond Grades – A Parent's Guide to Empowerment and Emotional Well-being"
 datePublished: Sat Jul 22 2023 16:35:45 GMT+0000 (Coordinated Universal Time)
 cuid: clke8es9j000e09l63ge0b73b
-slug: dear-parents-1
+slug: msg-for-my-parents-dear-parents
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4syO0fP1Bf0/upload/31f62089b1f70b772ee13193a9305c3c.jpeg
 tags: lessons, life, parents, children
 
@@ -47,6 +47,5 @@ By incorporating these principles into their parenting approach, parents can cre
 
 ---
 
-With love and encouragement,
-
-**WE**
+With love and encouragement,  
+छाेराे हजुरकाे ❤️
