@@ -1,5 +1,5 @@
 ---
-title: "UPI🫀 - The Confession"
+title: "UPI🫀 - The Confession!"
 seoTitle: "UPI🫀-The Confession"
 seoDescription: "Why am I still here & waiting for US to happen :)"
 datePublished: Sun May 28 2023 10:39:24 GMT+0000 (Coordinated Universal Time)
@@ -14,15 +14,16 @@ tags: sumannn, me8848you, she, confession, confess
 
 Dear UPI,
 
-I hope this letter finds you well, and my words manage to capture even a fraction of the adoration I hold for you. I write to you today with a heart brimming with affection, a heart that has found solace in your presence, even from a distance. (over english vayo hai)
+  
+I hope you're doing well. I wanted to share my feelings with you. Writing this, my heart is full of affection. My heart is overflowing with affection, finding comfort in the way you make me feel, even when we're apart.
 
 ---
 
-## How I Found You
+## How I Found You?
 
 From the moment I saw you on TikTok, something shifted within me. Your simplicity, cuteness, and that adorable smile of yours completely captured my heart.
 
-One single photo with the background song "Tmro tyo aakha sachhikai sagar ho". I forget everything about that moment why am I here for?Tmlai(Whoever reading this) kehi nalagna sakxa But i still remember Unko nidhar ma vako sano kalo tika kati suhayeko. Ek aakha dhakine gari rakheko kapal ani fikka fikka nai kina nahos manda muskan. **Tha xaina maile k dekhe but jaba maile Unlai dekhe baki kehi dekhina.**
+One single photo with the background song "**Jiu Dhanai Bhakeni**". I forget everything about that moment why am I here for?Tmlai(Whoever reading this) kehi nalagna sakxa But i still remember Unko nidhar ma vako sano kalo tika kati suhayeko. Ek aakha dhakine gari rakheko kapal ani fikka fikka nai kina nahos manda muskan. **Tha xaina maile k dekhe but jaba maile Unlai dekhe baki kehi dekhina.**
 
 I've never felt this way before. You're different from anyone I've ever known. You have this amazing ability to make me feel happy even from a distance. Your smile is like sunshine, brightening up my darkest days.
 
