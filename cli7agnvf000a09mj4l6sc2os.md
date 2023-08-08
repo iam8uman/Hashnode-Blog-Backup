@@ -6,7 +6,7 @@ datePublished: Sun May 28 2023 10:39:24 GMT+0000 (Coordinated Universal Time)
 cuid: cli7agnvf000a09mj4l6sc2os
 slug: upi-the-confession
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685268708909/8d8327a5-a214-4699-aa51-4b5815d136af.png
-tags: sumannn, me8848you, she, confession, confess
+tags: love, she, confession, confess, iam8uman
 
 ---
 
