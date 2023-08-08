@@ -6,7 +6,7 @@ datePublished: Tue May 30 2023 17:13:36 GMT+0000 (Coordinated Universal Time)
 cuid: cliajfaki000209lb3r3y2woe
 slug: goodbye-the-last-message
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685466694183/418fb6cf-2f0b-4948-9acd-f3dbcf2bbd9d.png
-tags: love, upi, sumannn, goodbye, affection
+tags: love, upi, goodbye, affection, lovebirds
 
 ---
 
