@@ -42,6 +42,12 @@ Context API solves the problem of `prop drilling in React. Prop Drilling occurs 
 
 ---
 
+### Problem with Passing props
+
+From the above diagram, to pass data down to the component "Card", we need to pass it down through all the intermediate components, even if those components don't actually use the data themselves. This is what is referred to as "**<mark>prop drilling</mark>**<mark>.</mark>"
+
+---
+
 ### Working of Context API
 
 To work with Context API we need ***<mark>React.createContext</mark>***. It has two properties <mark>Provider and Consumer</mark>. <mark>The Provider acts as a parent it passes the state to its children whereas the Consumer uses the state that has been passed.</mark>
