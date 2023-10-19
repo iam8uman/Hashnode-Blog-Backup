@@ -6,9 +6,9 @@ Context API is used to pass global variable"
 seoDescription: "Day 21 of #100daysofcode: Context API"
 datePublished: Sun Oct 15 2023 07:35:10 GMT+0000 (Coordinated Universal Time)
 cuid: clnr5izk4000k08l08fmt77vk
-slug: props-drilling-context-api
+slug: contextapi
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697351011962/eac84566-cbc9-4f0a-a497-5f9eb2e80071.png
-tags: apis, reactjs, context-api, iam8uman, whysumancode
+tags: apis, reactjs, context-api, prop-drilling, whysumancode
 
 ---
 
