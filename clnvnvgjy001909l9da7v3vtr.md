@@ -1,5 +1,5 @@
 ---
-title: "LocalStorage || Store, Read & Clear ||"
+title: "LocalStorage || Store, Read & Clear"
 seoTitle: "LocalStorage || Store, Read & Clear ||"
 seoDescription: "LocalStorage || Store, Read & Clear ||
 Day24 of #100daysofcode !"
