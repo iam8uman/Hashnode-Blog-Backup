@@ -46,7 +46,8 @@ Redux is a <mark>state management library</mark> that allows you to manage the s
         
         ### **Dispatch (**`Distribute the action`**)**
         
-        In Redux, <mark>dispatch is a</mark> `function` <mark>provided by the store that allows you to send an action to update the state of your application.</mark> When you call `dispatch`, the store runs an action through all of the available reducers, which in turn updates the state accordingly.
+        In Redux, <mark>dispatch is a</mark> `function` <mark>provided by the store that allows you to send an action to update the state of your application.</mark> When you call `dispatch`, the store runs an action through all of the available reducers, which in turn updates the state accordingly. --------------------  
+        **(Dispatch le** `reducers` **ko use garera** `state` **lai update garxa)**
         
         ### **Reducers**
         
