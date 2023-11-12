@@ -155,38 +155,4 @@ In react we have to use <mark>lazy()</mark> and also <mark>suspense</mark> and <
 
 ---
 
-### Data Fetching in Next.js!
-
-1. Server Side Rendering.
-    
-2. Static Site Generation.
-    
-3. Incremental Static Generation.
-    
-
----
-
-### Error Handling in Next.js!
-
-For error Handling, we can have `error.js/tsx/jsx` a file that automatically handles errors in the Next.js application.
-
----
-
-### Loading in Next.js!
-
-We must build the loader manually in case of react and import and route it using lazy function, suspense, and fallback. But in the case of Next.js, we just make a file named as `loading.js/tsx/jsx` and it automatically shows its functionality.
-
----
-
-### **Data Fetching -** [**Caching Data**](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#caching-data)
-
-Caching stores data so it doesn't need to be re-fetched from your data source on every request. `( Matlab cache memory ma store garera rakhxa, Exact yehi kam garna react ma Loader use garna parthiyo )`
-
-```javascript
-// 'force-cache' is the default, and can be omitted
-fetch('https://...', { cache: 'force-cache' })
-```
-
----
-
 > "Happy Face, Happy Reader" - Keep Going!
